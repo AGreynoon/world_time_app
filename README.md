@@ -1,6 +1,6 @@
 # World Time App 
 
-### A Flutter app that displays the current time on specific county
+### A Flutter app that displays the real-time on a specific county.
 
 ## Table of contents
 * [General info](#general-info)
