@@ -1,16 +1,46 @@
-# world_time_app
+# World Time App 
 
-A new Flutter project.
+### A Flutter app that displays the current time on specific county
 
-## Getting Started
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Learnings](#learnings)
+* [Installation](#installation)
+* [Dependencies](#dependencies)
+* [Assets](#assets)
+* [API](#api) 
+* [Usage](#usage)
 
-This project is a starting point for a Flutter application.
+## General info
+This is a simple Flutter application implementing Flutter basics by doing this playlist ![Flutter Tutorial for Beginners]([https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ]) by ![Net Ninja](https://www.youtube.com/@NetNinja).
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+<img src="https://github.com/AGreynoon/world_time_app/blob/main/screenshots/Screenshot_1.png" width="300" height="600"/> <img src="https://github.com/AGreynoon/world_time_app/blob/main/screenshots/Screenshot_2.png" width="300" height="600"/> <img src="https://github.com/AGreynoon/world_time_app/blob/main/screenshots/Screenshot_3.png" width="300" height="600"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Learnings
+During this project, I focused on practicing the following Flutter concepts:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Installation:
+1. Clone this repository.
+2. Ensure you have Flutter installed (https://docs.flutter.dev/get-started/install).
+3. Run `flutter pub` get to install dependencies.
+
+
+## Dependencies:
+This project uses the following packages: 
+* `http` package for making HTTP requests.
+* `intl` package for date/number formatting, parsing, and bidirectional text.
+* `flutter_spinkit` package for loading indicators.
+
+## Assets:
+This project includes country flags in `assets` folder.
+
+
+## API:
+This project interacts with the ![worldtimeapi](http://worldtimeapi.org/) API.
+
+
+## Usage:
+* Run `flutter run` to launch the app on your device or simulator.
