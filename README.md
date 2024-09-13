@@ -1,6 +1,6 @@
 # World Time App 
 
-### A Flutter app that displays the real-time on a specific county.
+### A mobile application displays the time of a particular county that has been chosen from the menu, by integrating with worldtimeapi.
 
 ## Table of contents
 * [General info](#general-info)
